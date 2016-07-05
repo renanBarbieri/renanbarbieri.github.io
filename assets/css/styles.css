@@ -10,7 +10,7 @@
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #434343;
-  background: #DAE3E7;
+  background: #2d465e;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -89,8 +89,12 @@ a.btn-cta-secondary:hover,
 .text-highlight {
   color: #32383e;
 }
-.label-theme {
+.label-green {
   background: #3AAA64;
+  font-size: 12px;
+}
+.label-blue {
+  background: #3232ff;
   font-size: 12px;
 }
 a.dotted-link {
@@ -145,7 +149,7 @@ iframe {
   margin-bottom: 15px;
 }
 .header .profile-content .social a {
-  background: #b0b7bf;
+  background: #2d465e;
   width: 36px;
   height: 36px;
   display: inline-block;
