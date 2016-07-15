@@ -388,39 +388,7 @@ iframe {
 }
 .skills .skillset .level-bar-inner {
   height: 15px;
-  /*background: #66cb8c;*/
-}
-
-.basicLabel{
-  color: #A8DBA8
-}
-
-.intermediateLabel{
-  color: #79BD9A
-}
-
-.advancedLabel{
-  color: #3B8686
-}
-
-.specialistLabel{
-  color: #0B486B
-}
-
-.basic{
-  background: #A8DBA8;
-}
-
-.intermediate{
-  background: #79BD9A;
-}
-
-.advanced{
-  background: #3B8686;
-}
-
-.specialist{
-  background: #0B486B;
+  background: #66cb8c;
 }
 
 /* Testimonials section */
