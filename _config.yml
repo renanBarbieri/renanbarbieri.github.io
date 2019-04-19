@@ -23,7 +23,7 @@ author:  # change following line to your infomation.
   cv: https://docs.google.com/document/d/1Cy3HjWJze9Tr0zbNh-H4gDtsRiSnJaDKGDLxC-owjYs/export?format=pdf  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
-    - name: icon-android
+    - name: fa-android
     - name: icon-git
   skill_icon2:
     - name: icon-mobile-device

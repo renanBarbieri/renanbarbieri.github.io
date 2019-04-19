@@ -1,29 +1,102 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Gazeus Games
+    i18n: gazeus
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Desenvolvendo bibliotecas Android, que precisam de soluções multi-thread com alto impacto no comportamento dos jogos da empresa.
+    i18n: gazeus_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Jul. 2018
+    i18n: gazeus_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Arquiteto de Software
+    i18n: gazeus_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Radix Engenharia e Software
+    i18n: radix
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Desenvolvedor especializado em aplicações mobile, com foco em aplicativos para plataforma Android, tendo contato também com ReactNative. Aqui tive a oportunidade de desenvolver aplicativos com grande número de usuários ativos para grandes empresas, como VLT e Ipiranga.
+    i18n: radix_desc
+  date:
+    detail: Out. 2016 - Jun. 2018
+    i18n: radix_date
+  job:
+    detail: Android Developer
+    i18n: radix_job
+  icon: fa-plus-square
+
+- name:
+    detail: Fourmix
+    i18n: fourmix_2
+  desc:
+    detail: Trabalhando na análise, planejamento e desenvolvimento de projetos Android, Web e Multiplataforma (Phonegap).
+    i18n: fourmix_2_desc
+  date:
+    detail: Set. 2014 - Jun. 2016
+    i18n: fourmix_2_date
+  job:
+    detail: Gerente de Projetos | Desenvolvedor Android
+    i18n: fourmix_2_job
+  icon: fa-plus-square
+
+- name:
+    detail: Fourmix
+    i18n: fourmix_1
+  desc:
+    detail: Desenvolvedor de aplicativos Android, sistemas Web.
+    i18n: fourmix_1_desc
+  date:
+    detail: Set. 2012 - Jun. 2016
+    i18n: fourmix_1_date
+  job:
+    detail: Gerente de Projetos | Desenvolvedor Android
+    i18n: fourmix_1_job
+  icon: fa-plus-square
+
+- name:
+    detail: GAP Web & Mobile
+    i18n: gap
+  desc:
+    detail: Ajudando a formar o grupo de extensão na área mobile. Ministrei um mini curso de desenvolvimento Android. Além disso, ajudei a gerenciar os projetos, criar padrões de documentação e gerenciar a área financeira.
+    i18n: gap_desc
+  date:
+    detail: Set. 2012 - Jan. 2015
+    i18n: gap_date
+  job:
+    detail: Cofundador
+    i18n: gap_job
+  icon: fa-plus-square
+
+- name:
+    detail: EJCM
+    i18n: ejcm
+  desc:
+    detail: Em minha passagem pela empresa júnior atuei nas áreas de Marketing, Qualidade e Financeira.
+Enquanto atuava na área de marketing, executei projetos que auxiliaram a divulgação da empresa, principalmente atuando com as mídias sociais.
+Na área de qualidade, auxiliei no controle interno da empresa e no planejamento de alguns projetos.
+Em minha passagem pela área financeira, pude entender um pouco melhor como que funciona o setor jurídico-financeiro de uma empresa.
+    i18n: ejcm_desc
+  date:
+    detail: Ago. 2011 - Out. 2012
+    i18n: ejcm_date
+  job:
+    detail: Membro
+    i18n: ejcm_job
+  icon: fa-plus-square
+
+- name:
+    detail: UFRJ
+    i18n: ufrj
+  desc:
+    detail: Começei minha graduação em Ciência da Computação.
+    i18n: ufrj_desc
   date:
     detail: Jun. 2015
-    i18n: company_b_date
+    i18n: ufrj_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Aluno
+    i18n: ufrj_job
   icon: fa-plus-square
