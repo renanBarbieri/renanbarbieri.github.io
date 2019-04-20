@@ -74,10 +74,7 @@
     detail: EJCM
     i18n: ejcm
   desc:
-    detail: Em minha passagem pela empresa júnior atuei nas áreas de Marketing, Qualidade e Financeira.
-Enquanto atuava na área de marketing, executei projetos que auxiliaram a divulgação da empresa, principalmente atuando com as mídias sociais.
-Na área de qualidade, auxiliei no controle interno da empresa e no planejamento de alguns projetos.
-Em minha passagem pela área financeira, pude entender um pouco melhor como que funciona o setor jurídico-financeiro de uma empresa.
+    detail: Em minha passagem pela empresa júnior atuei nas áreas de Marketing, Qualidade e Financeira. Enquanto atuava na área de marketing, executei projetos que auxiliaram a divulgação da empresa, principalmente atuando com as mídias sociais. Na área de qualidade, auxiliei no controle interno da empresa e no planejamento de alguns projetos. Em minha passagem pela área financeira, pude entender um pouco melhor como que funciona o setor jurídico-financeiro de uma empresa.
     i18n: ejcm_desc
   date:
     detail: Ago. 2011 - Out. 2012
