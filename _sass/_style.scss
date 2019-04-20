@@ -69,7 +69,7 @@ h3, h4, h5 {
 }
 
 .navbar-default {
-  background-color: #fff;
+  background-color: transparent;
 }
 
 .nav > li > a i {
@@ -2403,7 +2403,7 @@ body {
       border-color: #fff;
       padding: 15px 0;
     }
-    background-color: transparent;
+    background-color: #fff;
     border-color: transparent;
     transition: all .3s ease-in-out 0s;
     .nav li a {
