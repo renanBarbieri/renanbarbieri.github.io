@@ -24,7 +24,7 @@
     detail: Out. 2016 - Jun. 2018
     i18n: radix_date
   job:
-    detail: Android Developer
+    detail: Desenvolvedor Android
     i18n: radix_job
   icon: fa-plus-square
 
@@ -52,7 +52,7 @@
     detail: Set. 2012 - Jun. 2016
     i18n: fourmix_1_date
   job:
-    detail: Gerente de Projetos | Desenvolvedor Android
+    detail: Desenvolvedor Android
     i18n: fourmix_1_job
   icon: fa-plus-square
 
