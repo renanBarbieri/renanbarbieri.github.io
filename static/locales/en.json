@@ -12,55 +12,55 @@
       "link": "Contact"
     },
     "about_me":{
-      "about_me": "Sobre mim",
-      "des": "Trabalho desde o início da minha carreira com soluções mobile e web, estando mais próximo do ambiente mobile. Ocupei posições mais gerenciais sempre que tive oportunidade, tentando sempre me aproximar da cultura Ágil, principalmente pela sua característica de dar valor à transparência e qualidade."
+      "about_me": "About Me",
+      "des": "Developing mobile and web solutions from the start of my career, being closer to mobile environment. Whenever possible I toked management responsabilities, aways trying to implement Agile culture, mainly by it's attribute to value transparency and quality."
     },
     "skills":{
-      "my_skills": "Minhas Habilidades"
+      "my_skills": "My Skills"
     },
     "projects":{
-      "my_projects": "Meus Projetos",
+      "my_projects": "My Projects",
       "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
       "cpython": "This project is other's project. I use another request to get repo's information.",
       "familycode": "This is another project."
     },
     "career":{
-      "my_career": "Minha Carreira",
+      "my_career": "My Career",
 
       "gazeus": "Gazeus Games",
-      "gazeus_desc": "Desenvolvendo bibliotecas Android, que precisam de soluções multi-thread com alto impacto no comportamento dos jogos da empresa.",
+      "gazeus_desc": "Developing Android libs that needs multi-thread solution with high impact on company's game behavior.",
       "gazeus_date": "Jul. 2018",
-      "gazeus_job": "Arquiteto de Software",
+      "gazeus_job": "Software Architect",
 
-      "radix": "Radix Engenharia e Software",
-      "radix_desc": "Desenvolvedor especializado em aplicações mobile, com foco em aplicativos para plataforma Android, tendo contato também com ReactNative. Aqui tive a oportunidade de desenvolver aplicativos com grande número de usuários ativos para grandes empresas, como VLT e Ipiranga.",
-      "radix_date": "Out. 2016 - Jun. 2018",
-      "radix_job": "Desenvolvedor Android",
+      "radix": "Radix Engineering and Software",
+      "radix_desc": "Focused developer on mobile applications, specialist at Android platform. Developing apps with many active users for big companies, as VLT Rio and Ipiranga.",
+      "radix_date": "Oct. 2016 - Jun. 2018",
+      "radix_job": "Android Developer",
 
       "fourmix_2": "Fourmix",
-      "fourmix_2_desc": "Trabalhando na análise, planejamento e desenvolvimento de projetos Android, Web e Multiplataforma (Phonegap).",
-      "fourmix_2_date": "Set. 2014 - Jun. 2016",
-      "fourmix_2_job": "Gerente de Projetos | Desenvolvedor Android",
+      "fourmix_2_desc": "Working on analysis, planning and development of Android projects, Web and Cross Platform",
+      "fourmix_2_date": "Sep. 2014 - Jun. 2016",
+      "fourmix_2_job": "Product Manager | Android Developer",
 
       "fourmix_1": "Fourmix",
-      "fourmix_1_desc": "Desenvolvedor de aplicativos Android, sistemas Web.",
-      "fourmix_1_date": "Set. 2012 - Jun. 2016",
-      "fourmix_1_job": "Desenvolvedor Android",
+      "fourmix_1_desc": "Android and Web Developer",
+      "fourmix_1_date": "Sep. 2012 - Jun. 2016",
+      "fourmix_1_job": "Android Developer",
 
       "gap": "GAP Web & Mobile",
-      "gap_desc": "Ajudando a formar o grupo de extensão na área mobile. Ministrei um mini curso de desenvolvimento Android. Além disso, ajudei a gerenciar os projetos, criar padrões de documentação e gerenciar a área financeira.",
-      "gap_date": "Set. 2012 - Jan. 2015",
-      "gap_job": "Cofundador",
+      "gap_desc": "Helping to create an extension group on mobile area for my university. I gave lessons on mini course of Android development. At same time, I manage and develop internal projects, besides create patterns of documentation.",
+      "gap_date": "Sep. 2012 - Jan. 2015",
+      "gap_job": "Co-founder",
 
       "ejcm": "EJCM",
-      "ejcm_desc": "Em minha passagem pela empresa júnior atuei nas áreas de Marketing, Qualidade e Financeira. Enquanto atuava na área de marketing, executei projetos que auxiliaram a divulgação da empresa, principalmente atuando com as mídias sociais. Na área de qualidade, auxiliei no controle interno da empresa e no planejamento de alguns projetos. Em minha passagem pela área financeira, pude entender um pouco melhor como que funciona o setor jurídico-financeiro de uma empresa.",
-      "ejcm_date": "Ago. 2011 - Out. 2012",
-      "ejcm_job": "Membro",
+      "ejcm_desc": "At junior enterprise I worked on Marketing, Quality and Finance areas. In marketing I executed projects that assisted at the propagation of enterprise brand. At my passage on quality area I assisted on internal control and on some projects planning",
+      "ejcm_date": "Aug. 2011 - Oct. 2012",
+      "ejcm_job": "Member",
 
-      "ufrj": "UFRJ",
-      "ufrj_desc": "Começei minha graduação em Ciência da Computação.",
+      "ufrj": "UFRJ, Computer Science Bachelor",
+      "ufrj_desc": "Started my undergraduate course",
       "ufrj_date": "Jun. 2015",
-      "ufrj_job": "Estudante"
+      "ufrj_job": "Undergraduate"
     },
     "blog":{
       "my_blog": "My Blog"
