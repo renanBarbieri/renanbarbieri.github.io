@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Git, Android, ReactNative, Scrum, Kotlin, Java, Persistence
-percentage: 65, 85, 60, 75, 70, 70, 80
+aspects: Git, SQL, ReactNative, Java, Python, Scrum, Kotlin, JavaScript, Android
+percentage: 65, 30, 60, 70, 30, 75, 70, 30, 85
