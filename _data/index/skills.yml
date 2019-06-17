@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: JavaScript, TDD, ReactNative, Java, Python, Scrum, Kotlin, Android, iOS
-percentage: 30, 65, 60, 70, 30, 75, 70, 85, 20
+aspects: TDD, JavaScript, ReactNative, Java, Python, Scrum, Kotlin, Android, iOS
+percentage: 65, 30, 60, 70, 30, 75, 70, 85, 20
